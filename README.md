@@ -13,9 +13,9 @@ In the same way, we also aim to compile in a sigle point-of-access all the scien
 
 ### Why care about Open Access?
 
-<div style="text-align:center"><iframe width="480" height="360"
-src="https://www.youtube.com/embed/L5rVH1KGBCY" alt="PhD Comics Open Access">
-</iframe></div>
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=L5rVH1KGBCY"><img align="center" src="http://img.youtube.com/vi/L5rVH1KGBCY/0.jpg" alt="PhD Comics Open Access" /></a>
+</p>
 
 ### How does Alexandria help me?
 
